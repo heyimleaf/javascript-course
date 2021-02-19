@@ -24,3 +24,16 @@ console.log(`2+2=${2+2}`)
 
 // Booleans
 console.log(5 < 6)
+console.log(5 > 3 ? 'Yes': 'No')
+console.log(false ? 5 : 4)
+
+
+// Logic operatores
+console.log(5 > 3 && 3 == 2);
+console.log(5 > 3 || 3 == 2);
+console.log(3 == 3 || 3 == 2);
+
+
+// Auto conversion
+console.log('5' - 3)
+console.log('5' + 1)
